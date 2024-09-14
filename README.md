@@ -96,5 +96,6 @@ If you have any questions, feedback, or would like to discuss potential opportun
 
 - **Email**: [kellykewang1126@gmail.com](mailto:kellykewang1126@gmail.com)
 - **LinkedIn**: [Ke Wang](https://www.linkedin.com/in/kellykewang1126/)
+- **Website**: [kewangportfolio](https://kellykewang1126.wixsite.com/kewangportfolio)
 
 I look forward to connecting with you!
