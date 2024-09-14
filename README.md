@@ -7,10 +7,10 @@ Welcome to my Data Analysis Portfolio! This repository showcases a variety of da
 ## Table of Contents
 
 1. [Layoffs Data Cleaning & EDA with SQL](#1-layoffs-data-cleaning--eda-with-sql)
-2. [Digital Marketing Campaign Spending & KPI Dashboard with Power BI](#digital-marketing-campaign-spending--kpi-dashboard-with-power-bi)
-3. [Shopping Trend Data Cleaning & Analysis with Excel](#shopping-trend-data-cleaning--analysis-with-excel)
-4. [Yelp Restaurant Bankruptcy Analysis with Python](#yelp-restaurant-bankruptcy-analysis-with-python)
-5. [Youth Mental Health Risk Factor Analysis with R](#youth-mental-health-risk-factor-analysis-with-r)
+2. [Digital Marketing Campaign Spending & KPI Dashboard with Power BI](#2-digital-marketing-campaign-spending--kpi-dashboard-with-power-bi)
+3. [Shopping Trend Data Cleaning & Analysis with Excel](#3-shopping-trend-data-cleaning--analysis-with-excel)
+4. [Yelp Restaurant Bankruptcy Analysis with Python](#4-yelp-restaurant-bankruptcy-analysis-with-python)
+5. [Youth Mental Health Risk Factor Analysis with R](#5-youth-mental-health-risk-factor-analysis-with-r)
 
 ---
 
