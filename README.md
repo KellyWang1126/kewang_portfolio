@@ -6,15 +6,15 @@ Welcome to my Data Analysis Portfolio! This repository showcases a variety of da
 
 ## Table of Contents
 
-1. [Layoffs Data Cleaning & EDA with SQL](#1-layoffs-data-cleaning--eda-with-sql)
-2. [Digital Marketing Campaign Spending & KPI Dashboard with Power BI](#2-digital-marketing-campaign-spending--kpi-dashboard-with-power-bi)
-3. [Shopping Trend Data Cleaning & Analysis with Excel](#3-shopping-trend-data-cleaning--analysis-with-excel)
+1. [Layoff Data Analysis with SQL](#1-layoff-data-analysis-with-sql)
+2. [Digital Marketing Campaign Dashboard with Power BI](#2-digital-marketing-campaign-dashboard-with-power-bi)
+3. [Shopping Trend Data Analysis with Excel](#3-shopping-trend-data-analysis-with-excel)
 4. [Yelp Restaurant Bankruptcy Analysis with Python](#4-yelp-restaurant-bankruptcy-analysis-with-python)
 5. [Youth Mental Health Risk Factor Analysis with R](#5-youth-mental-health-risk-factor-analysis-with-r)
 
 ---
 
-## 1. Layoffs Data Cleaning & EDA with SQL
+## 1. Layoff Data Analysis with SQL
 
 **Objective**:  
 This project focuses on cleaning raw layoff data to make it suitable for analysis, followed by an exploratory data analysis (EDA) to uncover trends and patterns in layoffs across industries and regions.
@@ -29,7 +29,7 @@ This project focuses on cleaning raw layoff data to make it suitable for analysi
 
 ---
 
-## 2. Digital Marketing Campaign Spending & KPI Dashboard with Power BI
+## 2. Digital Marketing Campaign Dashboard with Power BI
 
 **Objective**:  
 The goal of this project was to create an interactive dashboard to analyze and visualize digital marketing campaign spending and key performance indicators (KPIs) across various channels.
@@ -44,7 +44,7 @@ The goal of this project was to create an interactive dashboard to analyze and v
 
 ---
 
-## 3. Shopping Trend Data Cleaning & Analysis with Excel
+## 3. Shopping Trend Data Analysis with Excel
 
 **Objective**:  
 This project involved cleaning and analyzing shopping preference data to reveal consumer trends and patterns in spending behavior.
