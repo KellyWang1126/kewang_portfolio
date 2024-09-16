@@ -24,8 +24,8 @@ This project focuses on cleaning raw layoff data to make it suitable for analysi
 - Exploratory Data Analysis: Generated insights into layoff by computing statistical measures.
 
 **Files**:
-- [layoffs data cleaning.sql](https://github.com/KellyWang1126/kewang_portfolio/blob/main/layoffs%20data%20cleaning.sql)
-- [layoffs eda.sql](https://github.com/KellyWang1126/kewang_portfolio/blob/main/layoffs%20eda.sql)
+- [layoff data cleaning.sql](https://github.com/KellyWang1126/kewang_portfolio/blob/main/layoff%20data%20cleaning.sql)
+- [layoff eda.sql](https://github.com/KellyWang1126/kewang_portfolio/blob/main/layoff%20eda.sql)
 
 ---
 
